@@ -1,16 +1,17 @@
-## Hi there 👋
+# <a href="https://www.linkedin.com/in/milbrun-pearson-iii-343376152/">Milbrun Pearson</a>'s Software Engineering and Cybersecurity Project Portfolio 🔐
 
-<!--
-**mpearson-mlp/mpearson-mlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about cybersecurity and software engineering and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection to coding in python, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity and software engineering. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation]()**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)]()**
+
+## Python Projects
+
+<hr/>
