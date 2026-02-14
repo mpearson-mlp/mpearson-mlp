@@ -13,5 +13,5 @@ I'm passionate about cybersecurity and software engineering and love tackling co
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
 ## Python Projects
-- **[Magic 8-Ball Project]()**
+- **[Magic 8-Ball Project](https://github.com/mpearson-mlp/Magic-8-ball-project)**
 <hr/>
