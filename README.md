@@ -16,3 +16,4 @@ I'm passionate about cybersecurity and software engineering and love tackling co
 - **[Magic 8-Ball Project](https://github.com/mpearson-mlp/Magic-8-ball-project)**
 - **[Sal's Shipping project](https://github.com/mpearson-mlp/Sal-s-shipping-project/tree/main)**
 - **[Gradebook](https://github.com/mpearson-mlp/gradebook)**
+- **[Len's slices]()**
