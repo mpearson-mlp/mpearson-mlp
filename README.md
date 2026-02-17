@@ -3,6 +3,8 @@
 I'm passionate about cybersecurity and software engineering and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection to coding in python, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity and software engineering. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
+## Identity and Access Management with Microsoft Entra Id
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation]()**
@@ -16,4 +18,4 @@ I'm passionate about cybersecurity and software engineering and love tackling co
 - **[Magic 8-Ball Project](https://github.com/mpearson-mlp/Magic-8-ball-project)**
 - **[Sal's Shipping project](https://github.com/mpearson-mlp/Sal-s-shipping-project/tree/main)**
 - **[Gradebook](https://github.com/mpearson-mlp/gradebook)**
-- **[Len's slices]()**
+- **[Len's slices](https://github.com/mpearson-mlp/lens-slices)**
