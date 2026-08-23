@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/milbrun-pearson-iii-343376152/">Milbrun Pearson</a>'s Software Engineering and Cloud security Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/milbrun-pearson-iii-343376152/">Milbrun Pearson's</a> Software Engineering and Cloud security Project Portfolio 🔐
 
 I'm passionate about cybersecurity, software engineering, and cloud security and love tackling complex challenges through hands-on projects. From cloud security projects to coding in python, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity and software engineering. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
@@ -10,7 +10,8 @@ I'm passionate about cybersecurity, software engineering, and cloud security and
 - **[Vulnerability Management Lab]()**
 - **[Azure Key Vault Security Lab]()**
 
-
+## AWS projects
+- Coming soon
 
 ## Python Projects
 - **[Magic 8-Ball Project](https://github.com/mpearson-mlp/Magic-8-ball-project)**
