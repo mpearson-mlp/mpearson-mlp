@@ -4,7 +4,7 @@ I'm passionate about cybersecurity, software engineering, and cloud security and
 
 
 ## Azure Cloud Security Projects
-- **[Azure Secure Network Lab]()**
+- **[Azure Secure Network Lab](https://github.com/mpearson-mlp/azure-secure-network-terraform)**
 - **[Azure Cloud Mini SOC Lab]()**
 - **[Microsoft Entra ID IAM Lab]()**
 - **[Vulnerability Management Lab]()**
