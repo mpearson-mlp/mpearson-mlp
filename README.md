@@ -9,8 +9,6 @@ I'm passionate about cybersecurity, software engineering, and cloud security and
 - **[Microsoft Entra ID IAM Lab]()**
 - **[Azure Key Vault Security Lab]()**
 
-## AWS projects
-- Coming soon
 
 ## Python Projects
 - **[Magic 8-Ball Project](https://github.com/mpearson-mlp/Magic-8-ball-project)**
